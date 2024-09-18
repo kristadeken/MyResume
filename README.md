@@ -1,20 +1,9 @@
-  I spent most of my childhood caring for my family. By the time I turned 20, I had dedicated those years to helping my mom take care of my autistic sister. 
-While other kids were going through their rebellious teenage phase or dating, I was taking on the role of a caregiver. I went to school with my sister, sat
-in the same classrooms, and helped her with everything—bathing, homework, and navigating life. 
-I was a parent at a young age, but I didn’t mind because I loved being there for my mom and sister.
+I spent much of my early life caring for my family, particularly my autistic sister. While others my age were exploring typical teenage experiences, I took on the role of a caregiver—attending school alongside my sister, helping her navigate daily tasks, and providing emotional and physical support. This experience shaped my ability to adapt, manage responsibilities, and deeply understand the needs of others.
 
-  When I was in my early 20s, my mom was starting to get Pick’s disease, it is a devastating and rare form of dementia.  Unbeknownst to me for many years though,
-I stayed with her and became her caregiver, watching her slowly slip away. She passed away on February 16th, 2019. Losing her felt like losing my entire
-world—she was all I had left. I had no money, no car, no family, and was on the verge of being homeless. No one would hire me because my only recent work 
-experience was 24/7 caregiving.
+At the age of 20, life took another turn when I became the primary caregiver for my mother, who was diagnosed with Pick’s disease, a rare form of dementia. For years, I watched her gradually decline, and after her passing in 2019, I found myself at rock bottom—without a job, money, or even a roof over my head. 
 
-  I walked for miles in the snow to interviews, only to be turned down time and time again. I didn’t have time to mourn my mom—I needed to find work. 
-Catholic Charities stepped in and covered my rent for a month. The archdiocese even offered food, but I told them, “This is all I need to survive, 
-I have a roof over my head for a month now.” I refused to give up. I told myself, “Not today, Satan!” and kept pushing forward.
+But I refused to give up. With the help of Catholic Charities and sheer determination, I pulled myself up, eventually finding a job in a medical staffing agency. It was there that I met my husband, Rob, who encouraged me to return to school and complete my Computer Science degree in 2021.
 
-  Eventually, I found a job at a temp medical staffing agency. Every day, I biked, walked, and took the bus for three hours just to get there.
-Despite everything, I felt thankful just to be alive. I had come to terms with the fact that I’d likely spend the rest of my life alone, and I was okay
-with that because I had survived. 
+Professionally, I am now an experienced Programmer Analyst with a strong foundation in software development, full-stack development, and the Software Development Life Cycle (SDLC). I have a proven track record of leading complex projects, mastering new technologies, and delivering results within tight deadlines across global teams. From transitioning technologies to spearheading Agile methodologies, I excel at driving projects from concept to deployment while ensuring a user-focused approach.
 
-  Then I met my Rob at this job and we have been together ever since. He encouraged me to go back and finish my Computer Science Bachelor degree in 2021. 
-We were married June 30, 2024 this year. 
+Through it all, my caregiving background has instilled in me a unique resilience, empathy, and the ability to handle challenges head-on. I approach life and work with gratitude for the journey, the lessons learned, and the opportunities that lie ahead.
